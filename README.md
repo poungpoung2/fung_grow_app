@@ -1,1 +1,1 @@
-![MUSHROOMS!](Readme_imgs\Mushroom_icon.png)
+![MUSHROOMS!](./Readme_imgs/Mushroom_icon.png)
