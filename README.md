@@ -8,8 +8,8 @@ With this opportunity, we made 4 high-level objectives that the designs should m
 
 # Flowchart
 
-![Flowchart!](./Readme_imgs/One_Pager.jpg)!
-Presenting our app's flowchart, this visual guide illustrates the user journey. Initially, the homepage features three distinct sections, each differentiated by colour: Discover Mushroom, Grow Mushroom, and Your Farm. At the top of the page, users can see their progress levels; as they cultivate more mushrooms, their level increases accordingly.
+![Flowchart!](./Readme_imgs/One_Pager.jpg)
+Presenting our app's flowchart, this visual guide illustrates the user journey. Initially, the app features three distinct sections, each differentiated by colour: Discover Mushroom, Grow Mushroom, and Your Farm. At the top of the page, users can see their progress levels; as they cultivate more mushrooms, their level increases accordingly.
 In the Discover Mushroom section, we offer articles accompanied by images for users to read or listen to. Catering to our middle school audience, we ensure the text within these articles is straightforward and terminology is explained simply for easy understanding. 
 The core of the app lies in the Grow Mushroom section. Here, users select from three types of mushrooms available in the community to cultivate. To enhance engagement, we introduce locked mushrooms, which users can unlock by successfully growing mushrooms and levelling up. Once a mushroom is chosen, users simulate its growth by adjusting growing environment conditions, such as temperature etc.. and watering by  clicking the screen. We also provide warning messages to guide users away from actions that may harm the mushrooms (ex, too much water). 
 The app utilises transparent plant pots and a magnifying feature, allowing users to observe the substrate and growth stages closely. Corresponding articles explain each growth stage in detail.
